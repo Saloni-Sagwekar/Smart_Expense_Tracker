@@ -59,4 +59,3 @@ ID: 1, Category: Food, Amount: 200.0, Date: 23-03-2026
 Author
 
 Saloni Sagwekar
-MSc Data Science Student
